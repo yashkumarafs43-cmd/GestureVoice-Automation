@@ -40,8 +40,7 @@ Move your cursor with hand tracking, adjust brightness with gestures, and contro
  - 🚀 Enjoy controlling your PC hands-free!
 
 
-## **👨‍💻 Developed by Mayank Agrawal**
-## **🔗 LinkedIn: [littlecodr](https://www.linkedin.com/in/littlecodr/)**
+## **👨‍💻 Developed by Yash Raj**
 
 ## **📌 Setup & Installation**
 ### **Step 1️⃣: Install Python (If Not Installed)**
